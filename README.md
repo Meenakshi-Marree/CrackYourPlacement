@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -28,10 +29,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
