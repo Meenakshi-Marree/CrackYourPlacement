@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
