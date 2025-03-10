@@ -26,13 +26,13 @@ class Solution {
     static int evenlyDivides(int n) {
         // code here
         int cnt=0;
-        int original=n;
-        while(n>0){
-           int lastDigit=n%10;
-           if(lastDigit!=0 && original%lastDigit==0){
+        int temp=n;
+        while(temp>0){
+           
+           if(temp%10!=0 && n%(temp%10)==0){
                cnt++;
            }
-            n=n/10;
+            temp=temp/10;
         }
         return cnt;
     }
