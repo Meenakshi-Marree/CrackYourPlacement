@@ -25,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
