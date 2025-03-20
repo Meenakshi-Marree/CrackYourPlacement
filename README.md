@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -27,6 +28,7 @@
 | [0027-remove-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
