@@ -1,24 +1,23 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int size=nums.length;
-        if(size==0 || size==1)
-        {
-            return;
-        }
-
-        int nz=0,z=0;
-        while(nz<size)
-        {
-            if(nums[nz]!=0) //non-zero element
-            {
-                int temp=nums[nz];
-                nums[nz]=nums[z];
-                nums[z]=temp;
-                nz++;
-                z++;
+        int n=nums.length;
+        int j=-1;
+        for(int i=0;i<n;i++){
+            if(nums[i]==0){
+                j=i;
+                break;
             }
-            else  //nz pointing to zeroth element
-                nz++;
+        }
+        //no non-zero elements:
+        if (j == -1) return ;
+
+        for(int i=j+1;i<n;i++){
+            if(nums[i]!=0){
+                int temp=nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
+                j++;
+            }
         }
     }
 }
