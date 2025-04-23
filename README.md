@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -96,4 +99,12 @@
 | ------- |
 | [0136-single-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
