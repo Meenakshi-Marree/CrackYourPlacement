@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 ## Sorting
@@ -117,6 +119,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
