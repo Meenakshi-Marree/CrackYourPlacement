@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@
 | [0118-pascals-triangle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## String
 |  |
