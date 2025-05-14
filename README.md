@@ -41,6 +41,7 @@
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
