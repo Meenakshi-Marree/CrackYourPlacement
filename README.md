@@ -58,6 +58,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
