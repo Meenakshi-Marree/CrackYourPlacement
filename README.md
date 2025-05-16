@@ -70,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
