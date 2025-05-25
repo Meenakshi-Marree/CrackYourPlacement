@@ -51,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Greedy
@@ -74,6 +75,7 @@
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
