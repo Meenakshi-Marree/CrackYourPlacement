@@ -57,6 +57,7 @@
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -144,6 +146,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
