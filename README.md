@@ -33,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0027-remove-element) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -75,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
