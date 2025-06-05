@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
