@@ -131,6 +131,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -189,4 +190,8 @@
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
