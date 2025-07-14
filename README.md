@@ -28,6 +28,7 @@
 | [0152-maximum-product-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
