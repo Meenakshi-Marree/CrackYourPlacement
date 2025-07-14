@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -128,12 +129,14 @@
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -196,4 +200,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
