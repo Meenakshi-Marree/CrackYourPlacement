@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -151,6 +152,7 @@
 | [0035-search-insert-position](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -197,6 +199,7 @@
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -207,4 +210,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
