@@ -52,6 +52,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -201,6 +203,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -209,6 +212,7 @@
 | [0141-linked-list-cycle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
 | ------- |
