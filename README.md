@@ -214,6 +214,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -236,6 +237,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
