@@ -100,6 +100,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -214,6 +215,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
