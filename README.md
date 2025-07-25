@@ -34,6 +34,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -221,6 +223,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
