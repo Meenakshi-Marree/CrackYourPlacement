@@ -43,6 +43,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@
 | [0739-daily-temperatures](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
