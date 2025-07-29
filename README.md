@@ -92,6 +92,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@
 | [0205-isomorphic-strings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -233,6 +235,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
@@ -267,6 +270,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
