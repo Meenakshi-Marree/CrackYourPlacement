@@ -156,6 +156,7 @@
 | [0009-palindrome-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
