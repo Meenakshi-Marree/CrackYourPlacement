@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -311,4 +312,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
