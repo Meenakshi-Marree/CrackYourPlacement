@@ -162,6 +162,7 @@
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -173,6 +174,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 ## Divide and Conquer
