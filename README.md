@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
@@ -118,6 +120,7 @@
 | [0013-roman-to-integer](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -144,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0148-sort-list) |
