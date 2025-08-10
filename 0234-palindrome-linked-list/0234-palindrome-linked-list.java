@@ -9,37 +9,19 @@
  * }
  */
 class Solution {
-    public static ListNode reverseLinkedList(ListNode head){
-        if(head==null || head.next==null) return head;
-        ListNode newHead=reverseLinkedList(head.next);
-        ListNode front=head.next;
-        front.next=head;
-        head.next=null;
-        return newHead;
-    }
-    public boolean isPalindrome(ListNode head) {
-        if(head==null || head.next==null) return true;
-        //find middle
-        ListNode slow=head,fast=head;
-        while(fast.next!=null && fast.next.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        //reverse
-        ListNode newHead=reverseLinkedList(slow.next);
-        ListNode first=head;
-        ListNode second=newHead;
-        while(second!=null){
-            //comparing
-            if(first.val!=second.val){
-                reverseLinkedList(newHead);
-            return false;
-            }
-            first=first.next;
-            second=second.next;
-        }
-        reverseLinkedList(newHead);
-        return true;
-        
+    public static boolean isPalindrome(ListNode head){
+     Stack<Integer> st = new Stack<>();
+     ListNode temp = head;
+     while(temp!=null){
+        st.push(temp.val);
+        temp = temp.next;
+     }
+     temp=head;
+     while(temp!=null){
+        if(temp.val!=st.peek()) return false;
+        temp = temp.next;
+        st.pop();
+     } 
+    return true;
     }
 }
