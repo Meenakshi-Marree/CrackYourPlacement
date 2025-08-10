@@ -24,8 +24,8 @@ class Solution {
             List<Integer> subList = new LinkedList<Integer>();
             for(int i=0;i<levelNum;i++){
                 if(queue.peek().left!=null) queue.offer(queue.peek().left);
-                if(queue.peek().right!=null) queue.offer(queue.peek().right);
-                subList.add(queue.poll().val);
+                 if(queue.peek().right!=null) queue.offer(queue.peek().right);
+                 subList.add(queue.poll().val);
             }
             wrapList.add(subList);
         }
