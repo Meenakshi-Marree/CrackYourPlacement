@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@
 | [0242-valid-anagram](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2032-largest-odd-number-in-string) |
