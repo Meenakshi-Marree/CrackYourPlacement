@@ -71,6 +71,7 @@
 | [0234-palindrome-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -110,6 +111,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## String
@@ -128,6 +130,7 @@
 | [0205-isomorphic-strings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
