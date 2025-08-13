@@ -325,6 +325,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1258-article-views-i) |
