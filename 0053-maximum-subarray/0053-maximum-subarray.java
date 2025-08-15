@@ -11,7 +11,7 @@ class Solution {
                 if(sum>max){
                     max=sum;
                     ansStart=start;
-                    ansEnd=-1;
+                    ansEnd=i;
                 }
             
             if(sum<0){
