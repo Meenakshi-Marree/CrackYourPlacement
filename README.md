@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -219,6 +221,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0191-number-of-1-bits) |
