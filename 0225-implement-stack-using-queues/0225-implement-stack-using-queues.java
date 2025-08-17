@@ -3,19 +3,22 @@ class MyStack {
     Queue<Integer> q;
 
     public MyStack() {
-        q=new LinkedList<>();
+      q = new LinkedList<>();
+
     }
     
     public void push(int x) {
-       q.offer(x);
-       int size=q.size();
-       for(int i=0;i<size-1;i++){
+      q.offer(x);
+      int size = q.size();
+      for(int i=0;i<q.size()-1;i++){
         q.offer(q.poll());
-       } 
+
+      }
+        
     }
     
     public int pop() {
-       return q.poll() ;
+       return q.poll();
     }
     
     public int top() {
