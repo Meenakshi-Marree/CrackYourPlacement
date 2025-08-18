@@ -142,6 +142,7 @@
 | [0392-is-subsequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
