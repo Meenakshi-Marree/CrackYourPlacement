@@ -3,7 +3,7 @@ class Solution {
        double ans =1.0;
        long exp = n;
 
-       if(n<0) exp =-exp;
+       if(exp<0) exp =-exp;
 
        while(exp > 0){
         if(exp%2 ==1){
