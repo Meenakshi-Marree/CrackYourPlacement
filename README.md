@@ -46,6 +46,7 @@
 | [0485-max-consecutive-ones](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
@@ -101,6 +102,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
