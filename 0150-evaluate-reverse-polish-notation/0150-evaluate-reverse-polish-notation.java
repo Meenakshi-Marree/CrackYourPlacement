@@ -21,7 +21,7 @@ class Solution {
                 st.push(Integer.parseInt(token));
             }
         }
-        return st.pop();
+        return st.peek();
 
     }
 }
