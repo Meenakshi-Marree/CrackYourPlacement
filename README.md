@@ -82,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -147,6 +148,7 @@
 | [0402-remove-k-digits](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1890-sum-of-beauty-of-all-substrings) |
