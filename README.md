@@ -193,6 +193,7 @@
 | [0189-rotate-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -223,6 +224,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0792-binary-search) |
 ## Bit Manipulation
