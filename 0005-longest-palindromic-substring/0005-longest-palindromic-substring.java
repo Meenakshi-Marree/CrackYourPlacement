@@ -2,10 +2,7 @@ class Solution {
     int max=0,start=0,end=0;
     public boolean isPalindrome(String s,int i,int j){
         while(i<j){
-            char ch1=s.charAt(i);
-            char ch2=s.charAt(j);
-
-            if(ch1!=ch2)
+            if(s.charAt(i)!=s.charAt(j))
                 return false;
             i++;
             j--;
@@ -13,7 +10,7 @@ class Solution {
         return true;
     }
     public String longestPalindrome(String s) {
-        int n=s.length();
+        int n = s.length();
         for(int i=0;i<n;i++){
             for(int j=i;j<n;j++){
                 if(isPalindrome(s,i,j)==true){
