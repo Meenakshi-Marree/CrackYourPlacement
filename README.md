@@ -369,6 +369,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sliding Window
 |  |
 | ------- |
