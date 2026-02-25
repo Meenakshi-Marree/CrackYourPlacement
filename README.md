@@ -358,6 +358,7 @@
 | [0182-duplicate-emails](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1141-user-activity-for-the-past-30-days-i) |
