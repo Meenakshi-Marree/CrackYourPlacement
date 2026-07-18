@@ -382,6 +382,7 @@
 | [1827-invalid-tweets](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1827-invalid-tweets) |
 | [1907-count-salary-categories](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1908-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sliding Window
 |  |
