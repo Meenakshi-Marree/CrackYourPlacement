@@ -379,6 +379,7 @@
 | [1321-restaurant-growth](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1341-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/1729-find-followers-count) |
