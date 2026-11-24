@@ -470,4 +470,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0784-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Meenakshi-Marree/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
